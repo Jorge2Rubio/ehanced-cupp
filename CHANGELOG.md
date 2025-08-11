@@ -1,6 +1,6 @@
 # Changelog of CUPP
 
-## 3.2.1
+## 3.3.0
 
 ### 1. **Enhanced User Profiling**
 - **Detailed Profile Sections**:
@@ -157,5 +157,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 1.0.0
 - Initial release
+
 
 
