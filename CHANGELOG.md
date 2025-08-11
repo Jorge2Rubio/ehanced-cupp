@@ -18,7 +18,7 @@
 ### 2. **Intelligent Password Generation**
 - **Advanced Name Combinations**:
   - First + Last name combinations (JoseJuan)
-  - First + Last partial combinations (JoseRub, JJuan)
+  - First + Last partial combinations (JoseJua, JJuan)
   - Middle name incorporations (JosePJuan)
   - Nickname integrations
 - **Smart Term Extraction**:
@@ -157,6 +157,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 1.0.0
 - Initial release
+
 
 
 
